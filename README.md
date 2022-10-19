@@ -18,7 +18,7 @@ Oi, Eu sou [Maikon Vicente]
 
   <img align="right" alt="GIF" src="https://github.com/mkn-vicente/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 algum trabalho freelance? E-mail, [email](maikon_vicente@icloud.com) :)
+- 💼 algum trabalho freelance? E-mail, [email] (maikon_vicente@icloud.com) :)
 - 💬 pergunte-me sobre qualquer coisa, ficarei feliz em ajudar;
 
 **languages and tools:**  
