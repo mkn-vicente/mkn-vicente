@@ -1,5 +1,5 @@
 ### hey there 
-<a href="https://www.instagram.com/mknvicente/">
+<a href="https://www.instagram.com/mknvic/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.gg/Mikoon#8608">
